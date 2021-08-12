@@ -1,6 +1,6 @@
 # Smart DDT Calculator for Bread Bakers, javascript
 
-Read all the [gory details](https://blog.madebywindmill.com/reinventing-the-bread-bakers-ddt-formula-pt-1-7dde87fd2d4) about how and why this created.
+Read all the [gory details](https://blog.madebywindmill.com/reinventing-the-bread-bakers-ddt-formula-pt-1-7dde87fd2d4) about how and why this was created.
 
 ---
 
